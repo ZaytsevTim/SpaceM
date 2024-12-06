@@ -19,7 +19,7 @@
 - Harmony2 - важная библиотека
 - Real Solar System - замена игровой Солнечной системы на близкую к реальной Солнечной системе
   - Real Solar System Textures
-  - Kopernicues Planetary System Modifier
+  - Kopernicus Planetary System Modifier
   - KSP Community Fixes
 - Parallax - шейдер для планетарных текстур
 
