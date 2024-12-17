@@ -10,7 +10,7 @@
  
 ### <h1 align="center"> Ссылки 🔗: </h1>
 ### <a href="https://1drv.ms/w/c/eaeb0870ac391b0d/EYw13vARnyZGnvrXbGMaVZAB6pQmdN0ZCDweBZYVxk3ung?e=omiFRT" target="_blank">План проекта</a>
-### <https://drive.google.com/file/d/15g1KpgPB_wOPt9g5gKNXi1cvKHuMrpbq/view>Демонстрация успешной посадки Луны-25 в KSP</a>
+### <https://drive.google.com/file/d/15g1KpgPB_wOPt9g5gKNXi1cvKHuMrpbq/view> Демонстрация успешной посадки Луны-25 в KSP</a>
 > в папке Luna-25-Craft можно найти крафт, использованный в демонстрации
 ## <h1 align="center">KSP 🌌 </h1>
 ### Использованные модификации:
